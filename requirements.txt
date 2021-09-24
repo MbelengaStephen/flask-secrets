@@ -1,0 +1,4 @@
+Flask~=1.1.2
+flask
+
+wtforms~=2.3.3
